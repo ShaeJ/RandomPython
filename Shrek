@@ -46,11 +46,19 @@ onions! And of story. Bye-bye. See ya later.
 something? I'm making a mess. Just the word parfait make me start 
 
 slobbering.
-
-
-
 I'm on my way from misery to happiness today
 
-Uh-huh,uh-huh, uh-huh, uh-huh
+Uh-huh,uh-huh, uh-huh, uh-huh"
+
+for x in script.split():
+    pyautogui.write(x)
+    pyautogui.press("enter")
+
+
+
+
+
+
+
 
 
